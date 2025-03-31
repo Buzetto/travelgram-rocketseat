@@ -19,3 +19,15 @@ O projeto foi construído seguindo etapas como:
    ```bash
    [git clone https://github.com/seu-usuario/travelgram.git](https://github.com/Buzetto/travelgram-rocketseat.git)
 2. Abra o arquivo index.html em seu navegador.
+
+## 🌎 Deploy
+O projeto está hospedado no Vercel e pode ser acessado pelo link abaixo:
+
+🔗 [Travelgram - Acesse Aqui] (https://travelgram-rocketseat.vercel.app/)
+
+## 📷 Preview
+
+![image](https://github.com/user-attachments/assets/e30f4a1c-7172-4103-becf-191202ad22b8)
+
+
+Sinta-se à vontade para sugerir melhorias ou contribuir! 😃✨
