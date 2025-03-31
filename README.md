@@ -23,7 +23,7 @@ O projeto foi construído seguindo etapas como:
 ## 🌎 Deploy
 O projeto está hospedado no Vercel e pode ser acessado pelo link abaixo:
 
-🔗 [Travelgram - Acesse Aqui] (https://travelgram-rocketseat.vercel.app/)
+🔗 [Travelgram - Acesse Aqui](https://travelgram-rocketseat.vercel.app/)
 
 ## 📷 Preview
 
